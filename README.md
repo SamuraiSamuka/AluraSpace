@@ -1,39 +1,23 @@
-#  Teste técnico Pessoa Desenvolvedora Front-end Júnior
+<img src="https://github.com/SamuraiSamuka/Imagens/blob/main/alura.png">
 
-Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos às nossas vagas.  Neste repositório você encontra o enunciado do desafio para a vaga de Pessoa Desenvolvedora Front-end Júnior da [Alura Space](https://www.alura.com.br/)!
+<hr>
 
-##  Desafio
+<img src="https://imgs.search.brave.com/tEPRQEDeGVbfooBHfRMpP7OFC8E8D0_petdNl3Ch4hQ/rs:fit:1200:768:1/g:ce/aHR0cDovLzMuYnAu/YmxvZ3Nwb3QuY29t/Ly1zYlJ6V1hHT3RV/Zy9WS3lMcVl5dXJK/SS9BQUFBQUFBQUFB/TS93R2JtZEZFcnd6/NC9zMTYwMC9zaXRl/X2VtX2NvbnN0cnVj/YW8uanBn">
 
-A **Alura Space** é uma empresa de pesquisa espacial que faz imagens incríveis do universo observável, e vem buscando novas oportunidades de negócio. Porém, o time comercial não possui nenhuma ferramenta que facilite a visualização de suas fotos por clientes em potencial.
+# Alura Space
+O alura Space é o site de hospedagem de fotos do espaço, da Alura. Este projeto eu desenvolvi durante o curso [ReactJS: lidando com arquivos estáticos](https://cursos.alura.com.br/course/react-javascript-arquivos-estaticos).
 
-Para ajudar o time comercial, você deve **desenvolver uma interface que exiba as fotos coletadas pelos pesquisadores**. A interface já foi criada pelo time de design da empresa e [você pode acessá-la neste link](https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos). Ela deve seguir a referência visual disponibilizada como logo, fontes e cores da marca registrada da empresa. 
+# Sobre o projeto e resultado final
+O projeto foi desenvolvido com base [neste design do figma](https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos?node-id=89%3A4&t=5hUwuY9KfvWn98vN-0), a partir do zero, utilizando os assets disponibilizados [aqui](https://github.com/alura-cursos/teste-tecnico-alura-space/archive/refs/heads/main.zip).
 
-[Os arquivos de imagens estão disponíveis neste link](https://github.com/NeiltonSeguins/teste-tecnico-alura-space/archive/refs/heads/main.zip), e para facilitar a usabilidade, crie pelo menos um filtro de imagens para a aplicação. Contudo, funcionalidades extras serão consideradas um diferencial.
+Veja aqui [o resultado final]()
 
-**Exemplo:** Filtrar imagens de planetas, estrelas ou galáxias quando for digitado esses termos na barra de pesquisa.
+# Tecnologias utilizadas
 
-Para se sair bem neste desafio, elaboramos um conjunto de instruções que deve ser seguidas, pois influenciarão nos critérios de avaliação dos projetos enviados. 
+* HTML
+* CSS e SCSS
+* Javascript
+* React_js
+* Bibliotecas:
 
-##  Instruções
-
-- Utilize apenas [CSS/SCSS](https://sass-guidelin.es/) desenvolvido por você.
-
-- Utilize HTML semântico.
-
-- Se preocupe com a UX e UI do projeto elas serão levadas em consideração na avaliação.
-
-- Se atente nas [boas práticas do React.js](https://dev.to/abrahamlawson/react-style-guide-24pp).
-
-- Faça o Deploy do projeto em algum serviço de hospedagem de sua preferência ([Vercel](https://vercel.com/), [Heroku](https://www.heroku.com/), [Netlify](https://www.netlify.com/), etc).
-
-- Crie um Readme do seu projeto que contenha no mínimo um passo a passo de como rodar a aplicação.
-
-## Avaliação
-
-* Instruções de como rodar o projeto
-* Componentização e extensibilidade dos componentes Javascript
-* Organização, semântica, estrutura, legibilidade, manutenibilidade do seu código
-* Alcance dos objetivos propostos
-
-
-Desejamos uma boa sorte à todos!
+# Habilidades que utilizei/aprendi nesse projeto
