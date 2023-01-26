@@ -1,4 +1,4 @@
-<img src="https://github.com/SamuraiSamuka/Imagens/blob/main/alura.png">
+<img src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg">
 
 <hr>
 
