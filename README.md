@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="Javascript: validando formulários"> </p>
-
 # Alura Space
 O alura Space é um site de hospedagem de fotos do espaço. 
 
