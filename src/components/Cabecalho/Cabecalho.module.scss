@@ -1,4 +1,5 @@
 // Os estilos aqui tem escopo local de arquivo, por causa do scss module.
+@import "../../styles/variaveis";
 
 .cabecalho {
     display: flex;
@@ -33,9 +34,9 @@
     &__input {
       width: 80%;
       height: 30px;
-      color: #d9d9d9;
+      color: $cor-do-texto;
       font-size: 1rem;
-      font-family: "GandhiSansRegular";
+      font-family: $fonte-normal;
       border: none;
       background-color: transparent;
       outline: 0;
